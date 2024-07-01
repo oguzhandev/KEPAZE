@@ -2,6 +2,9 @@
 Kepaze | Security Research Tools
 # KEPAZE_V2 Toolset Usage Guide
 
+## Developer Information
+- GitHub Profile: [OguzhanDev](https://github.com/oguzhandev)
+
 ## Introduction
 KEPAZE_V2 is a toolset that combines various security tools and provides an easy-to-use interface. Below is the explanation of how to use these tools.
 
@@ -30,6 +33,3 @@ KEPAZE_V2 is a toolset that combines various security tools and provides an easy
 ### 6. Vulnerability Analysis Tool
 - **Description:** Performs vulnerability analysis using Nikto.
 - **Instructions:** You can perform a vulnerability analysis by entering the target IP.
-
-## Developer Information
-- GitHub Profile: [OguzhanDev](https://github.com/oguzhandev)
