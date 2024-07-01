@@ -1,0 +1,65 @@
+---
+
+### English
+
+# KEPAZE_V1 Toolset
+
+KEPAZE_V1 is a comprehensive toolset designed to simplify various security tasks for Linux users. This toolset includes several utilities that can be used for vulnerability analysis, brute force attacks, exploit searches, and more. Below is a brief description of each tool included in the KEPAZE_V1 toolset.
+
+## Tools Included:
+
+### 1. Exploit Search Tool
+Searches for exploits on ExploitDB using a keyword. This tool allows users to quickly find potential exploits for a given system or application.
+
+### 2. Firewall Detection Tool
+Detects web application firewalls (WAF). This tool helps in identifying whether a website is protected by a WAF, providing insights into potential security measures.
+
+### 3. Brute Force Attack Tool
+Performs brute force attacks on FTP and SSH services. This tool is useful for testing the strength of user passwords and identifying weak points in authentication mechanisms.
+
+### 4. Port Scanning Tool
+Performs fast scan, service version information scan, and OS information scan. This tool helps in discovering open ports and services on a target machine, along with their versions and operating system information.
+
+### 5. Wordlist Tool
+Creates a wordlist with specified character sets. This tool is useful for generating custom wordlists that can be used in password cracking or other security assessments.
+
+### 6. Vulnerability Analysis Tool
+Performs vulnerability analysis using Nikto. This tool scans for potential vulnerabilities in web applications, helping identify security issues that need to be addressed.
+
+## Developer Information
+- GitHub Profile: [OguzhanDev](https://github.com/oguzhandev)
+
+---
+
+### Türkçe
+
+# KEPAZE_V1 Araç Takımı
+
+KEPAZE_V1, Linux kullanıcıları için çeşitli güvenlik görevlerini basitleştirmek amacıyla tasarlanmış kapsamlı bir araç setidir. Bu araç seti, zafiyet analizi, kaba kuvvet saldırıları, exploit aramaları ve daha fazlası için kullanılabilecek çeşitli yardımcı programları içerir. Aşağıda, KEPAZE_V1 araç takımına dahil olan her bir aracın kısa bir açıklaması bulunmaktadır.
+
+## İçerilen Araçlar:
+
+### 1. Exploit Arama Aracı
+ExploitDB üzerinde anahtar kelime kullanarak exploit araması yapar. Bu araç, belirli bir sistem veya uygulama için potansiyel exploit'leri hızla bulmanıza olanak tanır.
+
+### 2. Güvenlik Duvarı Tespit Aracı
+Web uygulama güvenlik duvarlarını (WAF) tespit eder. Bu araç, bir web sitesinin bir WAF ile korunup korunmadığını belirlemede yardımcı olur ve potansiyel güvenlik önlemleri hakkında bilgi sağlar.
+
+### 3. Kaba Kuvvet Saldırı Aracı
+FTP ve SSH servislerine kaba kuvvet saldırıları yapar. Bu araç, kullanıcı şifrelerinin gücünü test etmek ve kimlik doğrulama mekanizmalarındaki zayıf noktaları belirlemek için kullanışlıdır.
+
+### 4. Port Tarama Aracı
+Hızlı tarama, servis versiyon bilgisi ve işletim sistemi bilgisi taraması yapar. Bu araç, bir hedef makinedeki açık portları ve servisleri, bunların sürümlerini ve işletim sistemi bilgilerini keşfetmede yardımcı olur.
+
+### 5. Wordlist Aracı
+Belirli karakter setleri ile wordlist oluşturur. Bu araç, parola kırma veya diğer güvenlik değerlendirmelerinde kullanılabilecek özel wordlist'ler oluşturmak için kullanışlıdır.
+
+### 6. Zaafiyet Analizi Aracı
+Nikto kullanarak zaafiyet analizi yapar. Bu araç, web uygulamalarındaki potansiyel zafiyetleri tarar ve düzeltilmesi gereken güvenlik sorunlarını belirler.
+
+## Geliştirici Bilgisi
+- GitHub Profil: [OguzhanDev](https://github.com/oguzhandev)
+
+---
+
+Bu yazı, GitHub'da yayınlayabileceğiniz kapsamlı ve anlaşılır bir açıklama sunar.
