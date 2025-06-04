@@ -33,7 +33,7 @@ Wordlist Olusturma Aracina Hosgeldin R00T
         return
 
     os.system("clear")
-    os.system("figlet WORLDLIST R00T")
+    os.system("figlet WORDLIST R00T")
     print("""
 Wordlist Olusturma Aracina Hosgeldin R00T
     """)
