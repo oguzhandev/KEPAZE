@@ -1,35 +1,47 @@
-# KEPAZE_V2 Toolset Usage Guide
+# KEPAZE_V2.2 Toolset Usage Guide
 
 ## Introduction
-KEPAZE_V2 is a toolset that combines various security tools and provides an easy-to-use interface. Below is the explanation of how to use these tools.
+KEPAZE_V2.2 is a toolset that combines various security tools and provides an easy-to-use interface. Below is the explanation of how to use these tools.
 
 ## Tools
 
-### 1. Exploit Search Tool
+### Data Analytics
+
+#### Advanced Analysis Tool
+- **Description:** Performs targeted web scraping, regression, correlation heatmaps, network metrics and data summaries.
+- **Instructions:** Choose the analysis type. If scraping fails, provide CSS selectors when asked.
+
+#### Social Network Analysis Tool
+- **Description:** Analyzes relationships between entities using social network theory and prints various centrality metrics.
+- **Instructions:** Provide an edge list CSV file. The graph can be saved on request.
+
+### Cyber Security
+
+#### Exploit Search Tool
 - **Description:** Searches for exploits on ExploitDB using a keyword.
-- **Instructions:** You can search by entering a keyword.
+- **Instructions:** Enter a keyword to search.
 
-### 2. Firewall Detection Tool
+#### Firewall Detection Tool
 - **Description:** Detects web application firewalls (WAF).
-- **Instructions:** You can detect WAF by entering the site address.
+- **Instructions:** Enter the site address to check.
 
-### 3. Brute Force Attack Tool
+#### Brute Force Attack Tool
 - **Description:** Performs brute force attacks on FTP and SSH services.
-- **Instructions:** You can perform an attack by entering the operation number, target IP, username file path, and password file path.
+- **Instructions:** Provide the target IP and credential files.
 
-### 4. Port Scanning Tool
-- **Description:** Performs fast scan, service version information scan, and OS information scan.
-- **Instructions:** You can perform a scan by entering the operation number.
+#### Port Scanning Tool
+- **Description:** Performs fast scan, service version scan and OS detection.
+- **Instructions:** Enter the operation number for the scan type.
 
-### 5. Wordlist Tool
+#### Wordlist Tool
 - **Description:** Creates a wordlist with specified character sets.
-- **Instructions:** You can create a wordlist by entering the character set and minimum-maximum character count.
+- **Instructions:** Enter the character set and min/max length.
 
-### 6. Vulnerability Analysis Tool
+#### Vulnerability Analysis Tool
 - **Description:** Performs vulnerability analysis using Nikto.
-- **Instructions:** You can perform a vulnerability analysis by entering the target IP.
+- **Instructions:** Enter the target IP address.
 
-### 7. OSINT Tool
+#### OSINT Tool
 - **Description:** Provides a menu for basic OSINT commands (whois, dnsrecon, theHarvester).
 - **Instructions:** Choose a command and enter a domain.
 
