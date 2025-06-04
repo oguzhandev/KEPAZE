@@ -33,3 +33,7 @@ KEPAZE_V2 is a toolset that combines various security tools and provides an easy
 ### 6. Vulnerability Analysis Tool
 - **Description:** Performs vulnerability analysis using Nikto.
 - **Instructions:** You can perform a vulnerability analysis by entering the target IP.
+
+### 7. OSINT Tool
+- **Description:** Provides a menu for basic OSINT commands (whois, dnsrecon, theHarvester).
+- **Instructions:** Choose a command and enter a domain.

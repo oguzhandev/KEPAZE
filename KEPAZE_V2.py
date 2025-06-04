@@ -47,13 +47,14 @@ def main():
 https://github.com/oguzhandev
 
 Lütfen Bir Seçim Yapınız!
-1- Exploit Arama Aracı 
+1- Exploit Arama Aracı
 2- Güvenlik Duvarı Tespit Aracı
 3- Kaba Kuvvet Saldırı Aracı
 4- Port Tarama Aracı
 5- Wordlist Aracı
 6- Zaafiyet Analizi
-7- Çıkış
+7- OSINT Aracı
+8- Çıkış
 
 """)
 
@@ -72,6 +73,8 @@ Lütfen Bir Seçim Yapınız!
     elif anasecim == "6":
         subprocess.run("python Araclar/zaafiyet_analizi.py", shell=True)
     elif anasecim == "7":
+        subprocess.run("python Araclar/osint_araci.py", shell=True)
+    elif anasecim == "8":
         print("Programdan çıkılıyor...")
         exit()
     else:

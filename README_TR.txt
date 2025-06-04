@@ -30,5 +30,9 @@ KEPAZE_V2, çeşitli güvenlik araçlarını bir araya getiren ve kullanımı ko
 - **Açıklama:** Nikto kullanarak zaafiyet analizi yapar.
 - **Talimatlar:** Hedef IP'yi girerek zaafiyet analizi yapabilirsiniz.
 
+### 7. OSINT Aracı
+- **Açıklama:** whois, dnsrecon veya theHarvester komutlarını çalıştırmak için menü sunar.
+- **Talimatlar:** Komutu seçin ve alan adını girin.
+
 ## Geliştirici Bilgisi
 - GitHub Profili: [OguzhanDev](https://github.com/oguzhandev)
